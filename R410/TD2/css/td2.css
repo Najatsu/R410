@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+#secondp {
+	background-color: darkgrey;
+}
+
+li {
+	background-color: rgb(39, 248, 196);
+}
+
+.legumes {
+	background-color: aqua;
+}
+
+.selected {
+	background-color: pink;
+  }
+
+  .selected2 {
+	background-color: blue;
+  }
